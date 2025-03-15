@@ -13,7 +13,7 @@ While my career began in data integration, where I honed skills in ETL processes
 
 - 💬 Ask me about **how to transform complex data into actionable insights**
 
-- 📫 How to reach me **a.meenareddy@gmail.com**
+- 📫 How to reach me **meena.amuru@gmail.com**
 
 - ⚡ Fun fact **Data Integration Specialist transitioned to Data Analyst**
   
