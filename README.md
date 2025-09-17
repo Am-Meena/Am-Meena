@@ -3,19 +3,19 @@
 
 <h2 align="left">🌟 About Me:</h2>
 
-While my career began in data integration, where I honed skills in ETL processes and database management, I have increasingly focused on leveraging my data expertise for insight discovery and trend analysis to support strategic decision-making. My experience with tools like SQL, Excel and Power BI, coupled with my passion for problem-solving and critical thinking, has driven my transition into a data analyst role. I am committed to continuous improvement and delivering actionable insights that fuel data-driven decision-making.
+While my career began in data integration, where I honed skills in ETL processes and database management, I have increasingly focused on leveraging my data expertise for Integration and insight discovery to support strategic decision-making. My experience with tools like Informatica, SQL, Excel and Power BI, coupled with my passion for problem-solving and critical thinking, has driven my transition into a data integartion analyst role. I am committed to continuous improvement and delivering actionable integartion and insights that fuel data-driven decision-making.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-meena&label=Profile%20views&color=0e75b6&style=flat" alt="am-meena" /> </p>
 
 <h2 align="left">💻 Work:</h2>
 
-- 👯 I’m looking to collaborate on **Data Analysis projects**
+- 👯 I’m looking to collaborate on **Data projects**
 
-- 💬 Ask me about **how to transform complex data into actionable insights**
+- 💬 Ask me about **how to integarte and transform complex data into actionable insights**
 
 - 📫 How to reach me **meena.amuru@gmail.com**
 
-- ⚡ Fun fact **Data Integration Specialist transitioned to Data Analyst**
+- ⚡ Fun fact **Data Integration Specialist and Analyst**
   
 
 
@@ -24,7 +24,7 @@ While my career began in data integration, where I honed skills in ETL processes
 - **Data Analysis Tools:** Power BI, Excel
 - **Programming Languages:** SQL
 - **Database Management:** MySQL, SQL Server
-- **Data Integration Tools:** Informatica PowerCenter
+- **Data Integration Tools:** Informatica PowerCenter, IICS, ADF
 - **Data Analysis Techniques:** Data Cleansing, Trend Analysis, Statistical Modeling
 
 
