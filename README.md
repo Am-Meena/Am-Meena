@@ -3,7 +3,7 @@
 
 <h2 align="left">🌟 About Me:</h2>
 
-While my career began in data integration, where I honed skills in ETL processes and database management, I have increasingly focused on leveraging my data expertise for Integration and insight discovery to support strategic decision-making. My experience with tools like Informatica, SQL, Excel and Power BI, coupled with my passion for problem-solving and critical thinking, has driven my transition into a data integartion analyst role. I am committed to continuous improvement and delivering actionable integartion and insights that fuel data-driven decision-making.
+My career began in data integration, where I honed skills in ETL processes and database management, I have increasingly focused on leveraging my data expertise for Cloud Integration and insight discovery to support strategic decision-making. My experience with tools like Informatica PC, IICS, SQL, Excel and Power BI, coupled with my passion for problem-solving and critical thinking, has driven my transition into a data integartion analyst role. I am committed to continuous improvement and delivering actionable integartion and insights that fuel data-driven decision-making.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-meena&label=Profile%20views&color=0e75b6&style=flat" alt="am-meena" /> </p>
 
